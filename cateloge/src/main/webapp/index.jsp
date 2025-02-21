@@ -39,7 +39,7 @@
             <div class="container px-3 py-18 mx-auto flex flex-wrap items-center">
                 <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
                     <h1 class="title-font font-medium text-3xl text-gray-900" style="color:white;">Company Catelogue</h1>
-                    <p class="leading-relaxed mt-4" style="color:white"><b>Springboot Application <br> Eclipse jdk 17 <br> Yashwant Telang.</b></p>
+                    <p class="leading-relaxed mt-4" style="color:white"><b>Springboot Application <br> Eclipse jdk 17 <br> Yashwant S. Telang.</b></p>
                 </div>
                 <div class="lg:w-2/6 md:w-1/2 bg-gray-100 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
                     <form action="checkLogin" method="post">
